@@ -16,7 +16,8 @@ function isPalindrome(word) {
 */
 
 /*
-  Add written explanation of your solution here
+  If the value of the word is not a palidrome the code will return false
+  If the value of the word is equal to a palidrome the code will return true
 */
 
 // You can run `node index.js` to view these console logs
